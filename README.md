@@ -2,9 +2,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python             3 hrs 43 mins   ███████████████▓░░░░░░░░░   62.47 % 
-Jupyter Notebook   2 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.12 % 
-JSON               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Python             5 hrs 13 mins   █████████████████▓░░░░░░░   70.06 % 
+Jupyter Notebook   2 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   29.62 % 
+JSON               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 <!--END_SECTION:waka-->
 
