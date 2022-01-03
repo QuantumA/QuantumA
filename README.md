@@ -10,6 +10,8 @@ Text               2 mins          ▒░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<img src="https://wakatime.com/share/@QuantumA/fc1cfcd9-4c6f-41e9-9c18-f86f6df42a11.svg?sanitize=true" width="600">
+
 <!--
 **QuantumA/QuantumA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
