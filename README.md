@@ -2,11 +2,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python             5 hrs 58 mins   ███████████████████░░░░░░   75.85 % 
-Docker             47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Git Config         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Jupyter Notebook   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Makefile           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Python             5 hrs 58 mins   ████████████▓░░░░░░░░░░░░   50.12 % 
+Jupyter Notebook   3 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   31.23 % 
+Docker             47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+R                  43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Git Config         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 ```
 <!--END_SECTION:waka-->
 
