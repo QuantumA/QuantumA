@@ -2,10 +2,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Jupyter Notebook   6 hrs 37 mins   ████████████████████████▒   97.71 % 
-Markdown           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-JSON               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Git Config         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Jupyter Notebook   8 hrs 42 mins   █████████████████████▒░░░   85.84 % 
+YAML               36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Docker             34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Markdown           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+JSON               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
 
