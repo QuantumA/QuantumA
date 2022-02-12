@@ -2,8 +2,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Jupyter Notebook   18 hrs 59 mins  ████████████████████████▓   99.26 % 
-CSV                8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Jupyter Notebook   15 hrs 50 mins  ████████████████████████▓   98.89 % 
+CSV                5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Markdown           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 <!--END_SECTION:waka-->
 
