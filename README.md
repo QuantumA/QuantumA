@@ -2,8 +2,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 1 hr 35 mins
-
 Python   1 hr 33 mins    ████████████████████████▓   98.05 % 
 YAML     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
