@@ -3,10 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python             13 hrs 11 mins  ██████████████████░░░░░░░   71.84 %
-Jupyter Notebook   5 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   27.55 %
-GitIgnore file     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python                 11 hrs 54 mins  ██████████████████▓░░░░░░   74.24 %
+Jupyter Notebook       3 hrs 49 mins   ██████░░░░░░░░░░░░░░░░░░░   23.85 %
+Text                   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+GitIgnore file         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+YAML                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+CSV/TSV                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
