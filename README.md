@@ -14,7 +14,7 @@ I'm a Software Engineer & technology enthusiast mainly focused on Data Engineeri
 ![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;![Snowflake](https://img.shields.io/badge/Snowflake-5BB4F7?style=for-the-badge&logo=snowflake&logoColor=white)&nbsp;![Airflow](https://img.shields.io/badge/Airflow-5BB4F7?style=for-the-badge&logo=airflow&logoColor=white)&nbsp;
 
 ### ML
-
+![Pycharm](https://img.shields.io/badge/PyTorch-316192?style=for-the-badge&logo=pytorch&logoColor=FF0000)&nbsp;![Sklearn](https://img.shields.io/badge/Sklearn-5BB4F7?style=for-the-badge&logo=scikit-learn&logoColor=FF9A00)&nbsp;!
 ### Infra
 
 ### Backend
