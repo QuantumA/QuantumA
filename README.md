@@ -18,9 +18,9 @@ I'm a Software Engineer & technology enthusiast mainly focused on Data and ML en
 <!--START_SECTION:waka-->
 
 ```text
-SQL                43 hrs 39 mins  ██████████████████▓░░░░░░   75.09 %
-Python             10 hrs 6 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
-Jupyter Notebook   4 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+SQL                45 hrs 45 mins  ███████████████████▓░░░░░   78.10 %
+Python             10 hrs          ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
+Jupyter Notebook   2 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
 Markdown           18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 Text               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 GitIgnore file     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
